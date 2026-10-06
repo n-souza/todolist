@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Compilação padrão do VS Code
+bin/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais / variáveis de ambiente
+.env
