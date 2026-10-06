@@ -3,7 +3,6 @@ package br.com.nataliasouza.todolist.Utils;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.BeanWrapper;
 import org.springframework.beans.BeanWrapperImpl;
-import org.springframework.beans.BeansException;
 
 import java.beans.PropertyDescriptor;
 import java.util.HashSet;
